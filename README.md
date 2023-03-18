@@ -3,3 +3,6 @@
 
 # İndirme Linki
 [İndir](https://dosya.co/csd22ab7ojki/Periyodik_Tablo_Setup.exe.html)
+
+# Tanıtım
+![alt text](https://i.hizliresim.com/dcrtjbk.png)
