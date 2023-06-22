@@ -2,7 +2,7 @@
 Öğrencilerin periyodik sistem konusunu daha iyi anlaması için yapmış olduğum periyodik tablo projesi
 
 # İndirme Linki
-[İndir](https://dosya.co/csd22ab7ojki/Periyodik_Tablo_Setup.exe.html)
+henüz hazır değil
 
 # Tanıtım
 ### Arayüz
